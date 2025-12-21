@@ -58,8 +58,6 @@ Passionate **Full Stack Developer** with a knack for building scalable applicati
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
